@@ -77,5 +77,6 @@ label = CPU %percentage%%
 type = internal/memory
 interval = 2
 format = <label>
-label = RAM %percentage_used%% ```
+label = RAM %percentage_used%%
+```
 picom and rofi can be styled how you like.

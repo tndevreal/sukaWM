@@ -26,7 +26,7 @@ recommended dependencies :
   *  kitty
   *  picom
 ------------------------------------------------------------
-Polybar requieres my spesific config, but it can be edited:
+Polybar requieres my specific config, but it can be edited:
 ``` [bar/example]
 width = 100%
 height = 32

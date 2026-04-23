@@ -45,11 +45,6 @@ modules-left   = pulseaudio
 modules-center = date 
 modules-right  = cpu 
 
-
-; -------------------------
-;       MODULES
-; -------------------------
-
 [module/title]
 type = internal/xwindow
 label = %title%

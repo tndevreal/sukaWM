@@ -1,5 +1,5 @@
 # sukawm – an infinite canvas x11 wm from scratch
-my config file: 
+my config file(~/.config/suka/sukawm.suconf): 
 ``` //autorun
 autorun='picom; kitty feh --bg-fill ~/Downloads/Peak/darkmode.png; ~/.config/polybar/launch.sh; /usr/lib/xdg-desktop-portal-gtk & ; dunst; /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &; '
 //binds

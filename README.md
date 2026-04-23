@@ -25,6 +25,7 @@ recommended dependencies :
   *  xdg-desktop-portal-gtk
   *  kitty
   *  picom
+------------------------------------------------------------
 Polybar requieres my spesific config, but it can be edited:
 ``` [bar/example]
 width = 100%
